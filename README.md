@@ -11,10 +11,4 @@ Replacement for `xfce4-terminal --drop-down` and/or guake.  This solution is pre
 3.  Done.
 
 ## Dependencies:
-`xfce4-terminal`
-
-`xdotool`
-
-`wmctrl`
-
 `apt install xfce4-terminal xdotool wmctrl`
